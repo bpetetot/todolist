@@ -1,0 +1,13 @@
+.todo {
+  padding: 10px;
+  margin: 5px;
+  border: 1px solid #ddd;
+  background-color: #FFF;
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+.todo-done {
+  color: #ccc;
+  text-decoration: line-through;
+}
